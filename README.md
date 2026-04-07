@@ -19,7 +19,7 @@ pip install -e .
 from emily_sdk import EmilyClient
 
 client = EmilyClient(
-    base_url="https://emily.example.com",
+    base_url="https://cspl-emily.engr.wustl.edu",
     api_key="emily_your_token_here",
 )
 ```
